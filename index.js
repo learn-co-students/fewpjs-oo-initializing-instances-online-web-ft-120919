@@ -23,4 +23,3 @@ class Dinner {
         this._dessert = dessert
     }
 }
-let dinner = new Dinner('beef', 'clam', 'steak', 'lava cake')
